@@ -11,6 +11,6 @@
 
 
 ### 찍은 것
-[2020. 12](https://www.youtube.com/watch?v=ZXieSvn2LJc)
+<!--[2020. 12](https://www.youtube.com/watch?v=ZXieSvn2LJc) -->
 
-[2020. 08](https://youtu.be/AEqPz3TJ4mY)
+<!--[2020. 08](https://youtu.be/AEqPz3TJ4mY)-->
