@@ -13,4 +13,4 @@
 ##### 찍은 것
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXieSvn2LJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/ZXieSvn2LJc?t=0s)
+[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/ZXieSvn2LJc/0.jpg)](https://youtu.be/ZXieSvn2LJc?t=0s)
