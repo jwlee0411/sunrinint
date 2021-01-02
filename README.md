@@ -1,7 +1,9 @@
 # Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)
+안녕하세요!
+선린인터넷고등학교에 재학 중인 소프트웨어 개발자(였던) 이종우입니다.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunrinint&repo=DigitalContents2020-03&show_icons=true&theme=radical)](https://github.com/sunrinint/DigitalContents2020-03)
 
