@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)](https://github.com/sunrinint)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunrinint&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/sunrinint)
 
@@ -11,3 +11,4 @@
 
 
 ##### 찍은 것
+![이런 거](https://www.youtube.com/watch?v=ZXieSvn2LJc)
