@@ -12,7 +12,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunrinint&repo=DigitalContents2020-03)](https://github.com/sunrinint/DigitalContents2020-03)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunrinint&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunrinint&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunrinint)](https://github.com/anuraghazra/github-readme-stats)
+
 
