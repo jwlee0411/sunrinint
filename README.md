@@ -1,37 +1,38 @@
 <h1 align="center">Hi 👋, I'm Jongwoo Lee</h1>
 <h3 align="center">A Growing Developer & Designer from South Korea</h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)](https://github.com/sunrinint)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunrinint&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/sunrinint)
-
-
 ### 🏅 개발한 것
 
 2021
 
-- Mapable - 장애인을 위한 개인 맞춤형 지도 어플리케이션
+- [Mapable](https://github.com/sunrinint/Mapable) - 장애인을 위한 개인 맞춤형 지도 어플리케이션
 
 2020
 
-- Code:Green - 바코드 및 사물 인식을 통한 분리수거 정보 안내 어플리케이션
-- 띠앗 - 우리말을 바르게 사용할 수 있는 어플리케이션
-- 냉장고를 부탁해 - 음식 유통기한 관리 어플리케이션
-- Prord - 통합형 전문용어 사전 어플리케이션
-- K-Corona.com - 코로나19 정보 모음집 웹사이트
+- [Code:Green](https://github.com/sunrinint/DigitalContents2020) - 바코드 및 사물 인식을 통한 분리수거 정보 안내 어플리케이션
+- [띠앗](https://github.com/sunrinint/CitizenLab2020) - 우리말을 바르게 사용할 수 있는 어플리케이션
+- [냉장고를 부탁해](https://github.com/sunrinint/BestBefore) - 음식 유통기한 관리 어플리케이션
+- [Prord](https://github.com/sunrinint/Prord) - 통합형 전문용어 사전 어플리케이션
+- [K-Corona.com](https://github.com/sunrinint/K-Corona.com) - 코로나19 정보 모음집 웹사이트
 
 2019
 
-- QuizHub - 온라인 멀티플레이 퀴즈 게임 어플리케이션
-- Signal - 전구와 화재경보기를 결합한 IoT 솔루션
+- [QuizHub](https://github.com/sunrinint/QuizHub) - 온라인 멀티플레이 퀴즈 게임 어플리케이션
+- [Signal](https://github.com/sunrinint/Signal) - 전구와 화재경보기를 결합한 IoT 솔루션
 
 ~ 2018
 
 - 엄마와 나 - 학생과 부모님의 쉬운 정보 공유를 도모하는 어플리케이션
 - HiCycle - 자전거 전용 내비게이션 어플리케이션
 
-# 
+#
 
+### 🏅 진행 사업
+
+- ㅤ2020. 09. ~ 2020. 12. - 2020 스마트시민랩 커뮤니티 지원사업_띠앗
+- ㅤ2020. 05. ~ 2020. 11. - 2020 서울시 청소년동아리 지원사업_VoIT 
+
+# 
 
 ### 👨‍💻 지금까지 배운 것
 
@@ -41,6 +42,9 @@
 - Python
 - Django
 - C / C++
+- Photoshop / Illustrator
+- XD
+- Premier Pro
 
 # 
 
@@ -93,3 +97,8 @@ Long-Run하기 위해서는 건강을 챙기는 것 만큼 중요한 것은 없�
 3. Balance
 
 일반적으로, 본인의 생각과 잣대로 타인을 평가하는 경우가 많습니다. 하지만, 그 생각과 잣대가 언제나 옳다고는 말할 수 없습니다. 그래서 저는 타인의 말을 경청하거나, 주위에 조언을 구하는 등의 방식을 통해 판단력을 키우고, 감정이나 주위 상황에 흐뜨러지지 않고, 대부분의 사람들이 공감할 수 있는 저만의 주관을 만들고자 합니다.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)](https://github.com/sunrinint)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunrinint&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/sunrinint)
