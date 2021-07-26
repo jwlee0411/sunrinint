@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jongwoo Lee</h1>
-<h3 align="center">A Growing Developer & Designer from South Korea</h3>
+<h3 align="center">A Growing Developer from South Korea</h3>
 
 ### 🏅 개발한 것
 
