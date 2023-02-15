@@ -2,13 +2,18 @@
 <h3 align="center">A Growing Developer from South Korea</h3>
 
 ### 🏅 학력
-- 2022.03 ~ 숭실대학교 전자정보공학부 (재학중)
+- 2022.03 ~ 숭실대학교 전자정보공학부 전자공학과 (재학중)
 - 2019.03 ~ 2022.02 선린인터넷고등학교 소프트웨어과 (졸업)
 - 2016.03 ~ 2019.02 도곡중학교 (졸업)
 - 2011.08 ~ 2016.02 경기초등학교 (졸업)
 
 
 ### 🏅 개발한 것
+
+2022
+
+- 숭실대학교 동아리연합회 웹사이트
+
 
 2021
 
@@ -40,30 +45,6 @@
 - ㅤ2020. 05. ~ 2020. 11. - 2020 서울시 청소년동아리 지원사업_VoIT 
 
 # 
-
-### 👨‍💻 지금까지 배운 것
-
-- Android Studio
-- Kotlin
-- Java
-- Python
-- Django
-- C / C++
-- Photoshop / Illustrator
-- XD
-- Premier Pro
-
-# 
-
-### 👨‍💻 배우고 싶은 것
-
-- NVVM Pattern in Android Studio
-- iOS Development
-- Unity
-- Illustrator
-- After Effects
-
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunrinint&show_icons=true&theme=radical)](https://github.com/sunrinint)
 
